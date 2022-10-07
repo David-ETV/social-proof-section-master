@@ -272,7 +272,7 @@ picture {
   position: absolute;
   z-index: -1;
 }
-article {
+.art {
   color: var(--White);
   font-size: calc(4.4vw);
   padding: 3% 11% 9% 10%;
@@ -350,7 +350,7 @@ article {
     font-size: calc(1.15vw);
   }
 
-  article {
+  .art {
     font-size: calc(1.05vw);
     padding: 4% 11% 9.5% 10%;
   }
